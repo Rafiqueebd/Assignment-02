@@ -1,0 +1,53 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+.container{width: 600px;margin: 10% auto;}
+
+body{
+background: url(../Image/bg03.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.Reset-Section img{
+	width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+.Reset-Section h1{
+	text-align: center;
+	color: brown;
+	font-family: cursive;
+}
+
+.Reset-Section{
+	background: bisque;
+	padding: 10px;}
+
+.form-control{
+	width: 95%;
+	height: 30px;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 10px;
+	text-align: center;}
+
+.submit-btn{
+	width: 50%;
+	height: 30px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 10px;
+	background-color: rosybrown;
+	cursor:pointer;
+    transition: 0.5s ease-in-out;}
+
+.submit-btn:hover{
+	background-color: pink;
+
+}
+
+
+     
